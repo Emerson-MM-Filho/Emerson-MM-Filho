@@ -1,4 +1,4 @@
-## Opa! Eu sou o Emerson
+## Opa! Eu sou o Emerson!
 <div>
   <a href="https://github.com/Emerson-MM-Filho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson-MM-Filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
