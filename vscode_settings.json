@@ -1,0 +1,164 @@
+{
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "readme",
+  "workbench.preferredLightColorTheme": "GitHub Light Default",
+  "workbench.editor.untitled.hint": "hidden",
+  "workbench.layoutControl.enabled": false,
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+
+  "editor.fontSize": 16,
+  "editor.minimap.maxColumn": 30,
+  "editor.wordWrap": "on",
+  "editor.autoIndent": "full",
+  "editor.renderWhitespace": "selection",
+  "editor.foldingStrategy": "indentation",
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontLigatures": true,
+  "editor.detectIndentation": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.foldingImportsByDefault": true,
+  "editor.largeFileOptimizations": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.addMissingImports": true
+  },
+
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.tabs.enabled": true,
+  "terminal.integrated.env.windows": {},
+  "terminal.integrated.env.linux": {},
+
+  "security.workspace.trust.untrustedFiles": "open",
+
+  "debug.console.fontSize": 18,
+
+  "files.autoSave": "afterDelay",
+
+  "window.commandCenter": true,
+
+  "javascript.format.semicolons": "remove",
+  "javascript.preferences.quoteStyle": "single",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "javascript.suggest.paths": true,
+  "javascript.format.enable": false,
+  "javascript.validate.enable": true,
+  "javascript.suggest.autoImports": true,
+  "javascript.suggest.completeFunctionCalls": true,
+  "javascript.format.insertSpaceAfterConstructor": false,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "javascript.suggest.includeAutomaticOptionalChainCompletions": true,
+
+  "typescript.format.semicolons": "remove",
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.suggest.paths": true,
+  "typescript.format.enable": false,
+  "typescript.validate.enable": true,
+  "typescript.suggest.autoImports": true,
+  "typescript.suggest.completeFunctionCalls": true,
+  "typescript.format.insertSpaceAfterConstructor": false,
+  "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "typescript.suggest.includeAutomaticOptionalChainCompletions": true,
+
+  "json.maxItemsComputed": 100000000000000000,
+
+  "python.formatting.provider": "black",
+  "python.linting.pylintArgs": [
+    "--load-plugins=pylint_django",
+    "--django-settings-module=myproject.settings",
+    "mypyCategorySeverity.error",
+    "mypyCategorySeverity.note"
+  ],
+
+  "markdown.preview.fontSize": 18,
+  
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+  },
+
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+  },
+
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "emmet.syntaxProfiles": {
+    "javascript": "js",
+    "javascriptreact": "jsx",
+    "typescript": "ts",
+    "typescriptreact": "tsx",
+    "django-html": "html"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact",
+    "django-html": "html"
+  },
+
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": true,
+    "markdown": true,
+    "python": true,
+    "javascript": true,
+    "typescript": true,
+    "json": true,
+    "html": true,
+    "css": true
+  },
+
+  "liveshare.notebooks.allowGuestExecuteCells": true,
+
+  "notebook.lineNumbers": "on",
+
+  "console-ninja.featureSet": "Community",
+  "console-ninja.fontSize": 16,
+  "console-ninja.captureFunctions": true,
+
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]",
+    "BEFORE DEPLOY"
+  ],
+  "todo-tree.tree.filterCaseSensitive": false,
+  "todo-tree.highlights.customHighlight": {
+    "BEFORE DEPLOY": {
+      "icon": "stop",
+      "iconColour": "#E64A45",
+      "gutterIcon": true,
+      "type": "tag",
+      "foreground": "#e6e6e6",
+      "background": "#E64A45"
+    }
+  },
+}
