@@ -1,6 +1,6 @@
 # Hi! I'm Emerson!
 
-Senior Backend Engineer | Distributed Systems & Scalability Specialist | AWS & Microservices Architect
+Backend Engineer | Distributed Systems & Scalability Specialist | AWS & Microservices Architect
 
 I am a dedicated Senior Software Engineer specializing in the design and operation of highly available, scalable, and fault-tolerant distributed systems, leveraging AWS and modern Object-Oriented/Functional principles. I lead the development of critical core services—such as serverless media processing pipelines and high-volume asynchronous APIs with a constant focus on concurrency, resilience, and performance optimization.
 
